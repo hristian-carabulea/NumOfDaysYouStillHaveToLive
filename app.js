@@ -10,7 +10,7 @@ function lifeInWeeks(deathAge, age) {
   monthsLeftToLive = yearsLeftToLive * 12;
   weeksLeftToLive = yearsLeftToLive * 52;
   daysLeftToLive = yearsLeftToLive * 365;
-  alert("You have " + daysLeftToLive + " days, " + weeksLeftToLive + " weeks, or " + monthsLeftToLive + " months left to live until you will die at the age of " + deathAge + ".");
+  alert("You have " + daysLeftToLive + " days, " + weeksLeftToLive + " weeks, or " + monthsLeftToLive + " months left to live until you will die at the age of " + deathAge + ". Happy Holidays!");
   //console.log("You have " + daysLeftToLive + " days, " + weeksLeftToLive + " weeks, and " + monthsLeftToLive + " months left.");
 }
 
